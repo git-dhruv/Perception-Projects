@@ -1,0 +1,8 @@
+subprocess32
+numpy
+tqdm
+imageio
+pyrender
+matplotlib
+trimesh
+gradescope-utils==0.2.7
